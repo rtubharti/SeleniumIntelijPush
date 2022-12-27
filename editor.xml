@@ -5,6 +5,12 @@
     <option name="LINE_SPACING" value="0.7" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JAVA" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
 </application>
